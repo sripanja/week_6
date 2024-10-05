@@ -1,11 +1,13 @@
 {
-    "phone": "+1-555-555-1234",
-    "email": "john.doe@example.com",
+    "name": "John",
+    "age": 30,
+    "isStudent": false,
+    "courses": [
+        "Math",
+        "Science"
+    ],
     "address": {
-        "street": "1234 Elm Street",
         "city": "New York",
-        "state": "NY",
-        "postalCode": "10001",
-        "country": "USA"
+        "postalCode": "10001"
     }
 }
